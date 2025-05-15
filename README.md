@@ -1,3 +1,9 @@
+在这个文件中进行修改
+
+![image-20250515162849932](image-20250515162849932.png)
+
+
+
 This bundle provides two classfiles, namely cas-sc.cls and cas-dc.cls
 and corresponding template files for typesetting journal articles
 supposed to go through Elsevier's updated workflow. cas-sc.cls is meant
@@ -25,9 +31,9 @@ elsarticle-cas bundle.  The following are the main files available:
 The PDF documentation elsdoc-cas.pdf is in the doc directory.  To
 generate it:
 
- 1. pdflatex elsdoc-cas
- 2. pdflatex elsdoc-cas
- 3. pdflatex elsdoc-cas
+  1. pdflatex elsdoc-cas
+  2. pdflatex elsdoc-cas
+  3. pdflatex elsdoc-cas
 
 or
 
